@@ -8,5 +8,6 @@ Currently it does this by loosely wrapping around the
 [toml4j library](https://github.com/mwanji/toml4j) so any problems with parsing
 are likely within that project.
 
-If there is interest in this I can create a pull request for the Vert.x Config
-project.
+There is currently a [Pull Request](https://github.com/vert-x3/vertx-config/pull/57) 
+on the main vertx-config project for this as a feature.
+Once merged this project will be archived and unsupported.
